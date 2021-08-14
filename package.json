@@ -12,7 +12,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Surivuk/hospital-enterprise.git"
+    "url": "https://github.com/Surivuk/hospital-enterprise.git"
   },
   "devDependencies": {
     "@types/jest": "^27.0.1",
