@@ -1,0 +1,1 @@
+{"version":3,"file":"UniqueEntityID.js","sourceRoot":"","sources":["../../../domain/identity/UniqueEntityID.ts"],"names":[],"mappings":";;AAAA,MAA8B,cAAc;IACxC,YAAoB,MAAS;QAAT,WAAM,GAAN,MAAM,CAAG;IAAG,CAAC;IAEjC,IAAI,KAAK;QACL,OAAO,IAAI,CAAC,MAAM,CAAC;IACvB,CAAC;IAEM,MAAM,CAAC,EAAqB;QAC/B,OAAO,IAAI,CAAC,MAAM,KAAK,EAAE,CAAC,MAAM,CAAC;IACrC,CAAC;CACJ;AAVD,iCAUC"}
