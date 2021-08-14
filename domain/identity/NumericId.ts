@@ -7,7 +7,7 @@ export class NumericIdError extends Error {
     }
 }
 
-export default class NumericId extends UniqueEntityID<number> {
+export default abstract class NumericId extends UniqueEntityID<number> {
     constructor(id: number | NumberValue) {
         const newId = typeof id === "number" ? new NumberValue(id) : id
         if (newId.value < 1)

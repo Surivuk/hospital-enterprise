@@ -1,5 +1,4 @@
-import BooleanValue from "../../src/types/BooleanValue";
-
+import BooleanValue from "@domain/types/BooleanValue";
 
 describe('BooleanValue', () => {
     test('Creation', () => {

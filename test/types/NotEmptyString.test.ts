@@ -1,5 +1,5 @@
-import NotEmptyString from "../../src/types/NotEmptyString";
-import StringValue from "../../src/types/StringValue";
+import NotEmptyString from "@domain/types/NotEmptyString";
+import StringValue from "@domain/types/StringValue";
 
 describe('NotEmptyString', () => {
     test('Creation', () => {
