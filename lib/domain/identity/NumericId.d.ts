@@ -1,4 +1,4 @@
-import NumberValue from "@domain/types/NumberValue";
+import NumberValue from "../types/NumberValue";
 import UniqueEntityID from "./UniqueEntityID";
 export declare class NumericIdError extends Error {
     constructor(message: string);

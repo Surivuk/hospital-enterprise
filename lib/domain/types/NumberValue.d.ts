@@ -1,4 +1,4 @@
-import ValueObject from "@domain/ValueObject";
+import ValueObject from "../ValueObject";
 export declare class NumberValueError extends Error {
     constructor(message: string);
 }
