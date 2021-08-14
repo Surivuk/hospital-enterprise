@@ -1,4 +1,4 @@
-import NumberValue from "@domain/types/NumberValue";
+import NumberValue from "../../src/types/NumberValue";
 
 
 describe('NumberValue', () => {

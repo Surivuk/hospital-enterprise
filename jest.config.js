@@ -11,7 +11,7 @@ module.exports = {
     "^.+\\.(ts|tsx)?$": "ts-jest",
   },
   moduleNameMapper: {
-    "^@domain/(.*)$": "<rootDir>/domain/$1",
+    "^@domain/(.*)$": "<rootDir>/src/$1",
   },
   collectCoverage: true,
   globals: {

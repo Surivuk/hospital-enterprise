@@ -1,4 +1,4 @@
-import BooleanValue from "@domain/types/BooleanValue";
+import BooleanValue from "../../src/types/BooleanValue";
 
 
 describe('BooleanValue', () => {

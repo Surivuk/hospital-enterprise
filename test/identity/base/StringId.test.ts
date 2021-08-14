@@ -1,6 +1,6 @@
-import StringId from "@domain/identity/base/StringId";
-import NotEmptyString from "@domain/types/NotEmptyString";
-import StringValue from "@domain/types/StringValue";
+import StringId from "../../../src/identity/base/StringId";
+import NotEmptyString from "../../../src/types/NotEmptyString";
+import StringValue from "../../../src/types/StringValue";
 
 describe('StringId', () => {
     test('Creation', () => {

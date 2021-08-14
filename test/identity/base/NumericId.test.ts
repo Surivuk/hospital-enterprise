@@ -1,5 +1,5 @@
-import NumericId from '@domain/identity/base/NumericId';
-import NumberValue from '@domain/types/NumberValue';
+import NumericId from '../../../src/identity/base/NumericId';
+import NumberValue from '../../../src/types/NumberValue';
 
 describe('NumericId', () => {
     test('Creation', () => {
