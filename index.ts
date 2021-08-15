@@ -1,8 +1,19 @@
-export * from "@domain/identity/StringId";
-export * from "@domain/identity/NumericId";
-export * from "@domain/Entity";
-export * from "@domain/ValueObject";
-export * from "@domain/types/NumberValue";
-export * from "@domain/types/StringValue";
-export * from "@domain/types/BooleanValue";
-export * from "@domain/types/NotEmptyString";
+import StringId from "@domain/identity/StringId";
+import NumericId from "@domain/identity/NumericId";
+import ValueObject from "@domain/ValueObject";
+import { Entity } from "@domain/Entity";
+import NumberValue from "@domain/types/NumberValue";
+import BooleanValue from "@domain/types/BooleanValue";
+import StringValue from "@domain/types/StringValue";
+import NotEmptyString from "@domain/types/NotEmptyString";
+
+export {
+    Entity,
+    ValueObject,
+    NumericId,
+    StringId,
+    NumberValue,
+    StringValue,
+    NotEmptyString,
+    BooleanValue
+}
